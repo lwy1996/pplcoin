@@ -1,1 +1,2 @@
-# pplcoin
+pplcoins
+品牌链币
